@@ -8,3 +8,6 @@ https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning (kme
 
 
 https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning (knn )
+
+
+https://github.com/matakshay/Air_quality_pred (locally)
