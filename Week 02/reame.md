@@ -2,3 +2,6 @@ https://www.kaggle.com/code/maksymyamkovenko/exploratory-data-analysis-clusterin
 
 
 https://www.kaggle.com/code/rajeshkaranji/knn-pima-dataset (knn pima)
+
+
+https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning (kmeans mall.csv)
